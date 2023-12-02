@@ -1,0 +1,6 @@
+Este projeto se trata de um Website para um provedor de hospedagem. O site possui duas páginas:
+- Página Home
+- Página Tabelas de Preços
+
+Neste site o usuário consegue interagir trocando de páginas ao clicar nos links do topo ou nos 'botões' no
+do conteúdo principal da página Home
